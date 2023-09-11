@@ -11,6 +11,10 @@ Code Exlplanation - [click here](https://github.com/kunalshah017/8085-Programmin
 2. Add 2 numbers one stored in register and another in memory location
 Code Explanation - [click here](https://github.com/kunalshah017/8085-Programming/blob/main/Practicals%20Code/11-09-23/Add_2_nos_1_in_reg_1_in_memoryLoc/Code%20Explanation.md)
 
+3. Add 2 numbers stored at 2 memory locations
+Code Explanation - [click here]()
 
+4. Swap 2 numbers stored at 2 memory locations
+Code Explanation - [click here]()
 
 </details>
