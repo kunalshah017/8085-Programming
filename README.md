@@ -12,9 +12,9 @@ Code Exlplanation - [click here](https://github.com/kunalshah017/8085-Programmin
 Code Explanation - [click here](https://github.com/kunalshah017/8085-Programming/blob/main/Practicals%20Code/11-09-23/Add_2_nos_1_in_reg_1_in_memoryLoc/Code%20Explanation.md)
 
 3. Add 2 numbers stored at 2 memory locations
-Code Explanation - [click here]()
+Code Explanation - [click here](https://github.com/kunalshah017/8085-Programming/blob/main/Practicals%20Code/11-09-23/Add_2_nos_stored_at_2_memoryloc/Code%20Explanation.md)
 
 4. Swap 2 numbers stored at 2 memory locations
-Code Explanation - [click here]()
+Code Explanation - [click here](https://github.com/kunalshah017/8085-Programming/blob/main/Practicals%20Code/11-09-23/Swap_2_nos_stored_at_memoryloc/Code%20Explanation.md)
 
 </details>
