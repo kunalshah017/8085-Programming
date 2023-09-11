@@ -1,2 +1,4 @@
-# 8085-Programming
-Codes for 8085 Microprocessor, KIT - Dynalog (Dyna-85)
+# 8085 Microprocessor Codes 
+
+How to use code file :
+
