@@ -1,5 +1,6 @@
 # 8085 Microprocessor Codes 
 (Scroll Below to see Programs) <br>
+- 8085 Emulator - [click here](https://8085emu.github.io/)
 ### How to use code file :
 
 https://github.com/kunalshah017/8085-Programming/assets/95049390/03108567-5736-420c-91dd-671a2c5ebbb2
