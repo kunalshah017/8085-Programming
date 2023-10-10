@@ -55,9 +55,6 @@ https://github.com/kunalshah017/8085-Programming/assets/95049390/03108567-5736-4
 1. Swap 2 numbers stored at 2 memory locations
 <br>Code Explanation - [click here](https://github.com/kunalshah017/8085-Programming/blob/main/Practicals%20Code/11-09-23/Swap_2_nos_stored_at_memoryloc/Code%20Explanation.md)
 
-
-
-
 </details>
 
 <details>
@@ -68,5 +65,16 @@ https://github.com/kunalshah017/8085-Programming/assets/95049390/03108567-5736-4
 
 1. Add 2 16 bit numbers
 <br>Code Explanation - [click here](/Practicals%20Code/18-09-23/add_2_16Bit_nos/Code%20Explanation.md)
+
+</details>
+
+<details>
+<summary>09-10-23</summary>
+
+1. Find greater between 2 numbers
+<br>Code Explanation - [click here](/Practicals%20Code/09-10-23/find_greater_between_2_nos/Code%20Explanation.md)
+
+1. Find greater between 3 numbers
+<br>Code Explanation - [click here](/Practicals%20Code/09-10-23/find_greater_between_3_nos/Code%20Explanation.md)
 
 </details>
