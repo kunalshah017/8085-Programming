@@ -14,7 +14,7 @@ Aim - Write assembly language program to find number of 1's and 0's in 8-bit num
 | C007    | MVI E, 00H       | 1E      |
 | C008    |                  | 00      |
 | C009    | RRC              | 0F      |
-| C00A    | JNC C011H        | DA      |
+| C00A    | JC C011H         | DA      |
 | C00B    |                  | 11      |
 | C00C    |                  | C0      |
 | C00D    | INR E            | 1C      |
@@ -29,7 +29,7 @@ Aim - Write assembly language program to find number of 1's and 0's in 8-bit num
 | C016    | LXI H, 2011H     | 21      |
 | C017    |                  | 11      |
 | C018    |                  | 20      |
-| C019    | MOV M, E         | 77      |
+| C019    | MOV M, E         | 73      |
 | C01A    | INX H            | 23      |
 | C01B    | MOV M, D         | 72      |
 | C01C    | HLT              | 76      | 
@@ -42,7 +42,8 @@ Aim - Write assembly language program to find number of 1's and 0's in 8-bit num
 | 2010    | 70   |
 
 70 = 01110000
-
+15 = 00001111
+67 = 01100111
 
 ## Output
 
